@@ -1,0 +1,53 @@
+[project]
+name = "gnome-markdown-quicklook"
+version = "1.0.0"
+description = "A Quick Look-style extension for GNOME that provides rich Markdown preview functionality with multiple flavor support"
+readme = "README.md"
+authors = [{ name = "Joshua Lee Bauer" }]
+license = { text = "GPL-2.0" }
+requires-python = ">=3.8"
+keywords = ["markdown", "gnome", "sushi", "preview", "quicklook"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Desktop Environment :: Gnome",
+    "Topic :: Text Processing :: Markup :: Markdown",
+    "Environment :: X11 Applications :: Gnome",
+]
+
+dependencies = [
+    "markdown>=3.5",
+    "pygments>=2.15",
+    "pymdown-extensions>=10.0",
+    "commonmark>=0.9.1",
+    "markdown-it-py>=3.0.0",
+    "python-markdown-math>=0.8",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0", "black>=23.0", "ruff>=0.1.0"]
+
+[project.urls]
+Homepage = "https://github.com/noboomu/gnome-markdown-quicklook"
+Repository = "https://github.com/noboomu/gnome-markdown-quicklook"
+Documentation = "https://github.com/noboomu/gnome-markdown-quicklook#readme"
+"Bug Reports" = "https://github.com/noboomu/gnome-markdown-quicklook/issues"
+
+[project.scripts]
+sushi-markdown-converter = "gnome_markdown_quicklook.converter:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = ["pytest>=7.0", "black>=23.0", "ruff>=0.1.0"]
